@@ -26,5 +26,5 @@
 
 ---
 
-###### Below you can see some of my favourite 42 projects ⬇️
+##### Below you can see some of my favourite 42 projects ⬇️
 
