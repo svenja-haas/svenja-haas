@@ -18,7 +18,8 @@
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavendelchen&layout=donut&langs_count=5" alt="Top Languages">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavendelchen&layout=donut&langs_count=5" alt="Top Languages">
+
+<img src="https://64.media.tumblr.com/804bdb2472805155f91585622f55c1c9/c713732b9d4d4361-15/s1280x1920/bb80be58ef4cf54efc0234babbb1abe60f6044c8.jpg" title="cat" alt="cat" height="100" style="max-width: 100%; object-fit: cover;"  align="right">
+</div>
 
