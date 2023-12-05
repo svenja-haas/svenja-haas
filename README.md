@@ -1,3 +1,9 @@
+# Nice to meet you🐳
+
+#### I'm Svenja, a 21-year old student at the programming school **42 Heilbronn**, eager to learn and explore the world of code. <br> <br>
+
+## Languages & Tools
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="c" alt="c" width="40" height="40"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>
