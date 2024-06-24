@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=69C7FF&background=102A3A00&vCenter=true&&repeat=false&random=false&width=435&lines=Nice+to+meet+you+%F0%9F%90%B3" alt="Typing SVG" /></a>
 ---
 
-#### I'm Svenja, a 22-year old Frontend Developer eager to explore the world of code and level up my abilities. <br><br>
+<i>I'm Svenja, a 22-year old</i> <b>Frontend Developer</b> <i>eager to explore the world of code and level up my abilities.</i> <br><br>
 
 ## About me
 🎓 studied at the coding school [42Heilbronn](https://www.42heilbronn.de/) <br>
