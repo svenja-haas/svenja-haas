@@ -27,7 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" title="azuredevops" alt="azuredevops" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>
-</div>    
+</div>
+
+<br>
+
+<b>Some courses I've done:</b> https://frontendmasters.com/u/laven/
 
 <br>
 
