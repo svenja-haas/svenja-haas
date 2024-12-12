@@ -31,7 +31,7 @@
 
 <br>
 
-<b>Some courses I've done:</b> https://frontendmasters.com/u/laven/
+<b>Some courses I've done:</b> https://frontendmasters.com/u/svenjahaas/
 
 <br>
 
