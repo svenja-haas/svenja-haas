@@ -4,8 +4,8 @@
 <i>A 22-year old</i> <b>Web Developer</b> <i>eager to explore the world of code and level up my abilities.</i> <br><br>
 
 ## About me
-🎓 studied at the coding school [42Heilbronn](https://www.42heilbronn.de/) <br>
-👩‍💻 currently in internship at [iss innovative software services](https://www.iss-stuttgart.de/)
+🎓 Studied at coding school [42Heilbronn](https://www.42heilbronn.de/) <br>
+👩‍💻 Frontend Engineer at [Becklyn](https://becklyn.com/)
 <br><br>
 
 ## Languages & Tools
@@ -35,7 +35,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavendelchen&layout=donut&langs_count=4&hide=makefile&theme=dark" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svenja-haas&layout=donut&langs_count=4&hide=makefile&theme=dark" alt="Top Languages">
 
 <img src="https://64.media.tumblr.com/804bdb2472805155f91585622f55c1c9/c713732b9d4d4361-15/s1280x1920/bb80be58ef4cf54efc0234babbb1abe60f6044c8.jpg" title="cat" alt="cat" height="100" style="max-width: 100%;"  align="right">
 </div>
